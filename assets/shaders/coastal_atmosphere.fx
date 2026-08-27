@@ -1,4 +1,4 @@
-// Project VI Community Reconstruction
+// Project VI Technical Archive — Lead developer: PapiGEGamer
 // Original Direct3D 11 reference shader for the standalone visual sandbox.
 
 Texture2D SceneColor : register(t0);

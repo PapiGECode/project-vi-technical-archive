@@ -1,3 +1,4 @@
+// Project VI Technical Archive — Lead developer: PapiGEGamer
 #include "pvi/world/map_streamer.hpp"
 
 #include <stdexcept>

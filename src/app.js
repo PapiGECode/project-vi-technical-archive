@@ -1,3 +1,4 @@
+// Project VI Technical Archive — Lead developer: PapiGEGamer
 const grid = document.querySelector('#assetGrid');
 const inspector = document.querySelector('#inspector');
 const terminal = document.querySelector('#terminal');

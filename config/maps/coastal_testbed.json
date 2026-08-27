@@ -1,5 +1,6 @@
 {
   "$schema": "pvi.map-profile/v1",
+  "developer": "PapiGEGamer",
   "id": "coastal_testbed",
   "displayName": "Coastal Testbed",
   "coordinateSystem": "right-handed-z-up",

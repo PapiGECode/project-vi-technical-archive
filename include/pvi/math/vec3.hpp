@@ -1,3 +1,4 @@
+// Project VI Technical Archive — Lead developer: PapiGEGamer
 #pragma once
 
 #include <cmath>

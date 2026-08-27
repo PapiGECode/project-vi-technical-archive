@@ -8,6 +8,8 @@
 
 <p align="center"><sub>Unofficial fan-made technical archive. Independent from Rockstar Games and Take-Two Interactive.</sub></p>
 
+<p align="center"><strong>Lead developer: PapiGEGamer</strong></p>
+
 ## Repository profile
 
 Project VI is a community-maintained technical visual archive for cataloging publicly released promotional material and experimenting with a standalone simulation sandbox. It includes deterministic SHA-256 asset cataloging, file-integrity verification, metadata indexing, a static archive interface, and original C++/Lua/HLSL reference modules.
@@ -55,9 +57,9 @@ The vehicle module uses a semi-implicit integration step, aerodynamic drag, roll
 
 ## Project maintenance
 
-Project VI is maintained under the **NullCoast** project identity.
+Project VI is developed and maintained by **PapiGEGamer**.
 
-Repository maintenance covers archive structure, metadata generation, integrity verification, interface development, and preservation of the indexed reference material.
+Development covers the standalone simulation sandbox, archive structure, metadata generation, integrity verification, interface development, and preservation of the indexed reference material.
 
 ## Asset notice
 

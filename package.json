@@ -3,6 +3,7 @@
   "version": "0.7.0",
   "private": true,
   "description": "Technical visual archive, asset indexing, and integrity verification toolkit.",
+  "author": "PapiGEGamer",
   "type": "module",
   "scripts": {
     "catalog": "node tools/catalog-assets.mjs",
