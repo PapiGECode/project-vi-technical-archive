@@ -1,8 +1,8 @@
 {
-  "name": "project-vi-community-reconstruction",
+  "name": "project-vi-technical-archive",
   "version": "0.6.0",
   "private": true,
-  "description": "Unofficial fan-made visual archive and asset integrity toolkit.",
+  "description": "Technical visual archive, asset indexing, and integrity verification toolkit.",
   "type": "module",
   "scripts": {
     "catalog": "node tools/catalog-assets.mjs",
