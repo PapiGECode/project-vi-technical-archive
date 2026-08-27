@@ -1,0 +1,12 @@
+{
+  "profile": "project-vi-community",
+  "revision": 6,
+  "maintainerAlias": "NullCoast",
+  "classification": "unofficial-fan-reconstruction",
+  "sourceMaterial": "public-promotional-reference",
+  "toolchain": {
+    "manifest": "sha256-v1",
+    "runtime": "node>=18",
+    "interface": "static-es-modules"
+  }
+}

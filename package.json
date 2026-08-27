@@ -1,0 +1,13 @@
+{
+  "name": "project-vi-community-reconstruction",
+  "version": "0.6.0",
+  "private": true,
+  "description": "Unofficial fan-made visual archive and asset integrity toolkit.",
+  "type": "module",
+  "scripts": {
+    "catalog": "node tools/catalog-assets.mjs",
+    "verify": "node tools/verify-assets.mjs",
+    "dev": "node tools/serve.mjs"
+  },
+  "license": "MIT"
+}

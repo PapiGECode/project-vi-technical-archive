@@ -1,0 +1,91 @@
+{
+  "manifestVersion": "sha256-v1",
+  "profile": "project-vi-community",
+  "classification": "public-promotional-reference",
+  "assets": [
+    {
+      "name": "brand-lockup.png",
+      "path": "assets/reference/official-promo/brand-lockup.png",
+      "mediaType": "image/png",
+      "bytes": 152744,
+      "sha256": "f6c1a9e7b905e7eab89acc083f08c06ed478d0c11a2d63d49031e37b1e473511"
+    },
+    {
+      "name": "promo-layer-00.png",
+      "path": "assets/reference/official-promo/promo-layer-00.png",
+      "mediaType": "image/png",
+      "bytes": 136123,
+      "sha256": "8be262bffb245f3ab9c7b104809fd5f97571305d31d9e714fee890f7e46ce73e"
+    },
+    {
+      "name": "promo-layer-01.png",
+      "path": "assets/reference/official-promo/promo-layer-01.png",
+      "mediaType": "image/png",
+      "bytes": 842716,
+      "sha256": "71ceb25eb76865d2c6ba46af1762c476acdc0b66b4d1dcb327a3c5fccca678c3"
+    },
+    {
+      "name": "promo-layer-02.png",
+      "path": "assets/reference/official-promo/promo-layer-02.png",
+      "mediaType": "image/png",
+      "bytes": 177071,
+      "sha256": "d4856ff91f9fe706bd4b6547396f57a9ab966ef1135fc0effe6cdf467e37f74d"
+    },
+    {
+      "name": "promo-layer-03.png",
+      "path": "assets/reference/official-promo/promo-layer-03.png",
+      "mediaType": "image/png",
+      "bytes": 193508,
+      "sha256": "22c02f73afb07561c902cd8dc2657bef557cb82c6eadb560d512db9e55ecfd07"
+    },
+    {
+      "name": "promo-layer-04.png",
+      "path": "assets/reference/official-promo/promo-layer-04.png",
+      "mediaType": "image/png",
+      "bytes": 219182,
+      "sha256": "0c3f0171d1716672e49f2a04de744af484cf423ac9811e141555755fc5c7979b"
+    },
+    {
+      "name": "promo-layer-05.png",
+      "path": "assets/reference/official-promo/promo-layer-05.png",
+      "mediaType": "image/png",
+      "bytes": 195521,
+      "sha256": "3e4066ff93dac14c1512bb2833b89f90f933590f963ef59212a53b915cab45b3"
+    },
+    {
+      "name": "promo-layer-06.png",
+      "path": "assets/reference/official-promo/promo-layer-06.png",
+      "mediaType": "image/png",
+      "bytes": 119291,
+      "sha256": "06f308e837162d7f6afeb3b98842a0dad618cbadebd33872c840edadf4883e2a"
+    },
+    {
+      "name": "promo-layer-07.png",
+      "path": "assets/reference/official-promo/promo-layer-07.png",
+      "mediaType": "image/png",
+      "bytes": 190710,
+      "sha256": "207b74c82f435d6b890439d5ff95c797abf9f3b6f7bd2aad09ca95039f974421"
+    },
+    {
+      "name": "promo-layer-08.png",
+      "path": "assets/reference/official-promo/promo-layer-08.png",
+      "mediaType": "image/png",
+      "bytes": 188833,
+      "sha256": "005b567c9269a025cc0ea6b53241dba0ad90ecc7337ca5fe9c5091951a6f918d"
+    },
+    {
+      "name": "promo-layer-09.png",
+      "path": "assets/reference/official-promo/promo-layer-09.png",
+      "mediaType": "image/png",
+      "bytes": 34697,
+      "sha256": "ca184d3edf54e9a8b36cfd364cef46e8311f5fc2518e17447dfdadaf1ce5d841"
+    },
+    {
+      "name": "vi-mark.png",
+      "path": "assets/reference/official-promo/vi-mark.png",
+      "mediaType": "image/png",
+      "bytes": 190075,
+      "sha256": "6b8335b6cd5a11a96949e68bb4d0a794bbbfb92a1505f51304fb29f20a584d07"
+    }
+  ]
+}

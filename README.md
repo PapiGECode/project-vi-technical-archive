@@ -1,24 +1,43 @@
-# GTA VI — Concept Build
+<p align="center">
+  <img src="assets/reference/official-promo/brand-lockup.png" width="560" alt="Grand Theft Auto VI promotional logo">
+</p>
 
-> **Unofficial fan concept.** This is a fictional UI/demo project and is not affiliated with, endorsed by, or created by Rockstar Games, Take-Two Interactive, or the Grand Theft Auto franchise. It contains no leaked, proprietary, or game files.
+<h1 align="center">PROJECT VI // COMMUNITY RECONSTRUCTION</h1>
 
-## What this is
+<p align="center"><code>visual archive</code> · <code>asset indexing</code> · <code>integrity tooling</code></p>
 
-A small, self-contained browser experience that imagines the presentation layer of a fictional open-world game build: a title screen, mission briefing, map-style panel, and a mock status display.
+<p align="center"><sub>Unofficial fan-made technical reconstruction. Not affiliated with Rockstar Games or Take-Two Interactive.</sub></p>
 
-## Run locally
+## Repository profile
 
-Open `index.html` directly in any modern browser. No install or build step is required.
+Project VI is a community-maintained visual study that catalogs publicly released promotional artwork and experiments with a build-style asset browser. The repository contains an actual SHA-256 catalog generator, integrity verification tooling, and a static archive interface.
 
-## Project status
+```text
+project-vi/
+├── assets/reference/official-promo/   # supplied public promotional references
+├── data/asset-manifest.json           # generated checksums and file metadata
+├── src/app.js                         # archive interface and browser verification
+├── tools/catalog-assets.mjs           # deterministic manifest generator
+├── tools/verify-assets.mjs            # local integrity scanner
+└── project.json                       # reconstruction profile
+```
 
-`CONCEPT / UI PROTOTYPE`
+## Local operation
 
-## Notes
+Requires Node.js 18 or newer.
 
-- All content in this repository is original placeholder content.
-- This repository must not be represented as an official product, a playable GTA VI build, or a leak.
+```bash
+npm run catalog
+npm run verify
+npm run dev
+```
 
-## License
+Open `http://localhost:4173` after starting the local server.
 
-MIT — see [LICENSE](LICENSE).
+## Maintainer
+
+Maintained under the fictional community alias **NullCoast**. The alias does not represent or imply affiliation with any real leaker, employee, studio, or publisher.
+
+## Asset notice
+
+Grand Theft Auto, GTA, Rockstar Games, and associated artwork and marks belong to their respective owners. Promotional references are separated under `assets/reference/official-promo` and are not covered by the repository's MIT license. See [ASSET_NOTICE.md](ASSET_NOTICE.md).
