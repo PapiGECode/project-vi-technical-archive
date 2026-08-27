@@ -1,4 +1,4 @@
-// Project VI Technical Archive — Lead developer: PapiGEGamer
+// Project VI Technical Archive — Lead developer: Cyberleek
 #pragma once
 
 #include "pvi/math/vec3.hpp"

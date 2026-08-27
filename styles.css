@@ -10,6 +10,7 @@ button,a { font:inherit; }
 .wordmark { color:var(--ink); text-decoration:none; display:flex; align-items:center; gap:14px; }
 .mark { display:grid; place-items:center; width:34px; height:34px; background:var(--ink); color:#0a090d; letter-spacing:-.09em; font-weight:700; }
 .top-meta { color:var(--muted); display:flex; align-items:center; gap:10px; }
+.profile-avatar { width:34px; height:34px; object-fit:contain; margin-left:2px; border-radius:50%; background:#0d1d34; box-shadow:0 0 0 1px #36b6ff80,0 0 16px #36b6ff55; }
 .pulse { width:7px; height:7px; border-radius:50%; background:#67e8a5; box-shadow:0 0 12px #67e8a5; }
 .divider { color:#494751; }
 main { overflow:hidden; }

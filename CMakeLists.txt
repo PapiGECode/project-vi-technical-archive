@@ -1,4 +1,4 @@
-# Project VI Technical Archive — Lead developer: PapiGEGamer
+# Project VI Technical Archive — Lead developer: Cyberleek
 cmake_minimum_required(VERSION 3.21)
 project(project_vi_sandbox VERSION 0.7.0 LANGUAGES CXX)
 

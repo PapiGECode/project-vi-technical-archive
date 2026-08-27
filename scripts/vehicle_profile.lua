@@ -1,4 +1,4 @@
--- Project VI Technical Archive — Lead developer: PapiGEGamer
+-- Project VI Technical Archive — Lead developer: Cyberleek
 -- Original sandbox profile; no proprietary runtime or game data required.
 
 local VehicleProfile = {}

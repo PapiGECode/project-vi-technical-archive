@@ -8,7 +8,11 @@
 
 <p align="center"><sub>Unofficial fan-made technical archive. Independent from Rockstar Games and Take-Two Interactive.</sub></p>
 
-<p align="center"><strong>Lead developer: PapiGEGamer</strong></p>
+<p align="center">
+  <img src="assets/branding/cyberleek.png" width="160" alt="Cyberleek profile avatar">
+</p>
+
+<p align="center"><strong>Lead developer: Cyberleek</strong></p>
 
 ## Repository profile
 
@@ -57,7 +61,7 @@ The vehicle module uses a semi-implicit integration step, aerodynamic drag, roll
 
 ## Project maintenance
 
-Project VI is developed and maintained by **PapiGEGamer**.
+Project VI is developed and maintained by **Cyberleek**.
 
 Development covers the standalone simulation sandbox, archive structure, metadata generation, integrity verification, interface development, and preservation of the indexed reference material.
 
