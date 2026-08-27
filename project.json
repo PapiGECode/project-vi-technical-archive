@@ -1,8 +1,8 @@
 {
-  "profile": "project-vi-community",
+  "profile": "project-vi-technical-archive",
   "revision": 6,
   "maintainerAlias": "NullCoast",
-  "classification": "unofficial-fan-reconstruction",
+  "classification": "technical-visual-archive",
   "sourceMaterial": "public-promotional-reference",
   "toolchain": {
     "manifest": "sha256-v1",
