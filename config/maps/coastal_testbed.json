@@ -1,0 +1,28 @@
+{
+  "$schema": "pvi.map-profile/v1",
+  "id": "coastal_testbed",
+  "displayName": "Coastal Testbed",
+  "coordinateSystem": "right-handed-z-up",
+  "units": "meters",
+  "streaming": {
+    "defaultLoadRadius": 600,
+    "defaultUnloadRadius": 780,
+    "cells": [
+      { "id": 100, "name": "marina-west", "center": [0, 0, 0], "neighbors": [110] },
+      { "id": 110, "name": "causeway", "center": [850, 0, 0], "neighbors": [100, 120, 210] },
+      { "id": 120, "name": "beachfront", "center": [1700, 0, 0], "neighbors": [110, 220] },
+      { "id": 210, "name": "downtown-south", "center": [850, 850, 12], "neighbors": [110, 220] },
+      { "id": 220, "name": "art-deco-grid", "center": [1700, 850, 8], "neighbors": [120, 210] }
+    ]
+  },
+  "spawnPoints": [
+    { "id": "sandbox_vehicle", "kind": "vehicle", "position": [35, -18, 0.4], "headingDegrees": 12 },
+    { "id": "camera_overview", "kind": "camera", "position": [760, -620, 210], "headingDegrees": 38 }
+  ],
+  "environment": {
+    "timeOfDayHours": 6.35,
+    "weather": "coastal-haze",
+    "wetness": 0.35,
+    "windMetersPerSecond": [2.4, 0.8, 0]
+  }
+}

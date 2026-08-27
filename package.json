@@ -1,13 +1,15 @@
 {
   "name": "project-vi-technical-archive",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "private": true,
   "description": "Technical visual archive, asset indexing, and integrity verification toolkit.",
   "type": "module",
   "scripts": {
     "catalog": "node tools/catalog-assets.mjs",
     "verify": "node tools/verify-assets.mjs",
-    "dev": "node tools/serve.mjs"
+    "dev": "node tools/serve.mjs",
+    "validate:map": "node tools/validate-map.mjs",
+    "test": "npm run verify && npm run validate:map"
   },
   "license": "MIT"
 }

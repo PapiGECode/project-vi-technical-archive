@@ -1,12 +1,19 @@
 {
   "profile": "project-vi-technical-archive",
-  "revision": 6,
+  "revision": 7,
   "maintainerAlias": "NullCoast",
-  "classification": "technical-visual-archive",
+  "classification": "unofficial-fan-technical-archive",
   "sourceMaterial": "public-promotional-reference",
   "toolchain": {
     "manifest": "sha256-v1",
     "runtime": "node>=18",
-    "interface": "static-es-modules"
-  }
+    "interface": "static-es-modules",
+    "simulation": "standalone-cpp20"
+  },
+  "modules": [
+    "vehicle-dynamics",
+    "map-streaming",
+    "coastal-atmosphere",
+    "lua-profile"
+  ]
 }
